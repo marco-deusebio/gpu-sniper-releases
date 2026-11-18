@@ -1,5 +1,5 @@
 {
-  "version": "3.2.8",
+  "version": "3.2.9",
   "url": "https://marcodeus1.gumroad.com/l/gpu-sniper",
-  "notes": "Licensing is now active; update-check URL wired up."
+  "notes": "Fixed log lines getting cut off mid-word when RunPod's error message was longer than 100 characters."
 }
